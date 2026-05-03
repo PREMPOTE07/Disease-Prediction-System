@@ -1,0 +1,32 @@
+{
+    "KNN": {
+        "accuracy": 100.0,
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0
+    },
+    "Logistic Regression": {
+        "accuracy": 100.0,
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0
+    },
+    "Random Forest": {
+        "accuracy": 97.62,
+        "precision": 98.81,
+        "recall": 97.62,
+        "f1_score": 97.62
+    },
+    "SVM": {
+        "accuracy": 100.0,
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0
+    },
+    "XGBoost": {
+        "accuracy": 97.62,
+        "precision": 98.81,
+        "recall": 97.62,
+        "f1_score": 97.62
+    }
+}
